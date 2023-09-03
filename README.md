@@ -13,6 +13,8 @@ Bu proje gelişmeye devam etmektedir.
 ![2](https://github.com/NefiseTnc/B2Geta_E-Commerce_app/assets/100851004/e03d3860-3910-42bd-be49-a1744931999c)
 ![3](https://github.com/NefiseTnc/B2Geta_E-Commerce_app/assets/100851004/01361c44-9386-4a1a-9396-966e3a322084)
 
+## Uygulama Videosu
+https://github.com/NefiseTnc/B2Geta_E-Commerce_app/assets/100851004/0cdcc4e5-3be1-4ac7-a475-5e3648cbb41c
 
 ## Kullanılan Teknolojiler
 
