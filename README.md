@@ -9,7 +9,7 @@ Proje genel olarak Flutter teknolojisi ile yazılmış android ve ios platformla
 Bu proje gelişmeye devam etmektedir.
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://github.com/NefiseTnc/flutter_movies_app/assets/100851004/1b3af8d2-ce78-4adf-a5dc-14b91307d271| width=100)
+![Uygulama Ekran Görüntüsü](https://github.com/NefiseTnc/flutter_movies_app/assets/100851004/1b3af8d2-ce78-4adf-a5dc-14b91307d271 | width=100)
 
   
 ## Özellikler
