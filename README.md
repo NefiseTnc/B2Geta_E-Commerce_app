@@ -7,30 +7,13 @@
 Proje genel olarak Flutter teknolojisi ile yazılmış android ve ios platformlarına yönelik bir mobil e-ticaret uygulamasıdır.İçerik olarak kullanıcıların üye olup içersinde kendi firmalarını oluşturup ürünlerini ekleyip, bir çok varyasyonda paylaşım yapabildikleri aynı zamanda kendi içinde alışveriş yapabildikleri bir sosyal platform ve e-ticaret'in hibrik şeklinde yer aldığı mobil uygulamasıdır.
 
 Bu proje gelişmeye devam etmektedir.
-## Ekran Görüntüleri
-
 
 ## Uygulama Ekran Görüntüleri
-<img src="https://github.com/NefiseTnc/flutter_movies_app/assets/100851004/1b3af8d2-ce78-4adf-a5dc-14b91307d271" />
-
-  
-## Özellikler
-
-- Light/Dark tema geçişi
-- 2 Dil Desteği (English–Turkish)
-- Üye olup giriş yapma
-- Firma listeleme/ekleme/güncelleme
-- Ürün listeleme/ekleme/güncelleme/silme
-- Ürün arama
-- Ürün detayı görüntüleme
-- Sepete ürün ekleme/güncelleme/listeleme/silme
-- Sosyal platform (post/story/reels paylaşma/listeleme, takip etme/takipten çıkma/takipçileri listeleme, Post/Reels beğenme/yorum yapma)
-- Sipariş oluşturma/listeleme
-- Siparişe anlaşmazlık oluşturma/listeleme
-- Firmaya mesaj atma özelliği
+![1](https://github.com/NefiseTnc/B2Geta_E-Commerce_app/assets/100851004/4b7d33c1-356c-4784-988c-2dcabe548e07)
+![2](https://github.com/NefiseTnc/B2Geta_E-Commerce_app/assets/100851004/e03d3860-3910-42bd-be49-a1744931999c)
+![3](https://github.com/NefiseTnc/B2Geta_E-Commerce_app/assets/100851004/01361c44-9386-4a1a-9396-966e3a322084)
 
 
-  
 ## Kullanılan Teknolojiler
 
 **Client:** Flutter
@@ -53,6 +36,25 @@ Bu proje gelişmeye devam etmektedir.
 
 **Payment System:** iyzico
 
+
+  
+## Özellikler
+
+- Light/Dark tema geçişi
+- 2 Dil Desteği (English–Turkish)
+- Üye olup giriş yapma
+- Firma listeleme/ekleme/güncelleme
+- Ürün listeleme/ekleme/güncelleme/silme
+- Ürün arama
+- Ürün detayı görüntüleme
+- Sepete ürün ekleme/güncelleme/listeleme/silme
+- Sosyal platform (post/story/reels paylaşma/listeleme, takip etme/takipten çıkma/takipçileri listeleme, Post/Reels beğenme/yorum yapma)
+- Sipariş oluşturma/listeleme
+- Siparişe anlaşmazlık oluşturma/listeleme
+- Firmaya mesaj atma özelliği
+
+
+  
 
 
 
